@@ -5,6 +5,7 @@ const students1 = [
         age: 15,
         gender:'female',
         address: 'duala',
+        marks:[29 ,67,85],
 
     },
 
@@ -30,6 +31,7 @@ const students = [
         age: 15,
         gender:'female',
         address: 'duala',
+        marks:[100 ,97,90],
 
     },
 
@@ -59,6 +61,7 @@ const students2 = [
     {
         firstName:'ali',
         lastName:'ibrahim',
+
         age: 63,
         status: true,
         gender:'male',

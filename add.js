@@ -29,7 +29,7 @@ switch(age){
 
                 }
 
-if (age = 5)  {
+if (age = 6)  {
  console.log(5);
 }
  else if (age = 6){ 

@@ -13,6 +13,8 @@ let lastNum = ages.pop();
 console.log('second last number', lastNum);
 console.log(ages);
 
+let thirdlastNum = ages.pop();
+
 let indexofLastNumber = ages.length -1;
 console.log(ages[indexofLastNumber]);
 
