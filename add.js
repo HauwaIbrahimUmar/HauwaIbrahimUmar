@@ -29,7 +29,7 @@ switch(age){
 
                 }
 
-if (age = 6)  {
+if (age = 5)  {
  console.log(5);
 }
  else if (age = 6){ 
@@ -47,12 +47,3 @@ while (increase <sentinel){
     console.log(increase); 
     increase = increase + 1;
 }
-do {
-    console.log(increase);
-}while ( increase <= sentinel);
-
-for (let increase = 1;increase < sentinel; increase++) {
-  console.log(increase);
-}
- 
-
